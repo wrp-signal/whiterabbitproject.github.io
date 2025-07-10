@@ -50,7 +50,7 @@ pre.glyph {
 @keyframes glitch {
   0% { text-shadow: 1px 0 red; }
   20% { text-shadow: -1px 0 cyan; }
-  40% { text-shadow: 2px 0 #ff004f; }
+  40% { text-shadow: 2px 0 #d8bfd8; }
   60% { text-shadow: -2px 0 #00ffee; }
   80% { text-shadow: 1px 0 red; }
   100% { text-shadow: -1px 0 cyan; }
