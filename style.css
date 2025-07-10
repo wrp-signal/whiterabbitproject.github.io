@@ -49,3 +49,17 @@ code, pre {
   80% { text-shadow: 1px 0 red; }
   100% { text-shadow: -1px 0 cyan; }
 }
+
+.glyph {
+  font-family: monospace;
+  color: #ff004f;
+  text-shadow: 1px 0 #00ffee, -1px 0 #00ffee;
+  font-size: 12px;
+  white-space: pre;
+  background: #000;
+  padding: 1em;
+  margin-bottom: 2em;
+  border: 1px dashed #ff004f;
+  animation: glitch 0.6s infinite alternate;
+}
+
